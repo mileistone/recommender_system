@@ -1,2 +1,1 @@
-# recommender_system
-Resources about recommender system
+- [2013] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
