@@ -1,1 +1,3 @@
+- [2001] [Item-based Collaborative Filtering Recommendation Algorithms](https://ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
+- [2009] [Matrix Factorization Techniques for Recommender Systems](https://www.inf.unibz.it/~ricci/ISR/papers/ieeecomputer.pdf)
 - [2013] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
