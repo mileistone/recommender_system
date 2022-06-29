@@ -1,5 +1,6 @@
 - [1998] [Empirical Analysis of Predictive Algorithms for Collaborative Filtering](https://arxiv.org/abs/1301.7363)
 - [1998] [Learning Collaborative Information Filters](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)
 - [2001] [Item-based Collaborative Filtering Recommendation Algorithms](https://ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
+- [2001] [Spectral Analysis of Data](https://homes.cs.washington.edu/~karlin/papers/spectral-analysis-of-data.pdf)
 - [2009] [Matrix Factorization Techniques for Recommender Systems](https://www.inf.unibz.it/~ricci/ISR/papers/ieeecomputer.pdf)
 - [2013] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
