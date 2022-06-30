@@ -5,3 +5,6 @@
 - [2009] [Matrix Factorization Techniques for Recommender Systems](https://www.inf.unibz.it/~ricci/ISR/papers/ieeecomputer.pdf)
 - [2013] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
 - [RecSys2019] [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902)
+
+### Course
+- [2015] [Mining Massive Data Sets](http://snap.stanford.edu/class/cs246-2015/handouts.html)
