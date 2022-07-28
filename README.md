@@ -4,6 +4,7 @@
 - [2001] [Item-based Collaborative Filtering Recommendation Algorithms](https://ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
 - [2001] [Spectral Analysis of Data](https://homes.cs.washington.edu/~karlin/papers/spectral-analysis-of-data.pdf)
 - [2007] [Lessons from the Netflix Prize Challenge](https://www.kdd.org/exploration_files/6-Netflix-1.pdf)
+- [2008] [Large-Scale RecommenderSystems and the Netflix Prize Competition](https://cseweb.ucsd.edu//~elkan/KddNetflixWorkshop.pdf)
 - [2009] [Matrix Factorization Techniques for Recommender Systems](https://www.inf.unibz.it/~ricci/ISR/papers/ieeecomputer.pdf)
   - some paper of Yehuda Koren is very good.
 - [2013] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
