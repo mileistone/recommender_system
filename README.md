@@ -1,3 +1,4 @@
+### Publication
 - [1998] [Empirical Analysis of Predictive Algorithms for Collaborative Filtering](https://arxiv.org/abs/1301.7363)
 - [1998] [Learning Collaborative Information Filters](https://www.ics.uci.edu/~pazzani/Publications/MLC98.pdf)
 - [2001] [Item-based Collaborative Filtering Recommendation Algorithms](https://ra.ethz.ch/cdstore/www10/papers/pdf/p519.pdf)
@@ -14,3 +15,6 @@
 
 ### Book
 - [2020] [https://d2l.ai/chapter_recommender-systems/recsys-intro.html]
+
+### Blog
+- [The Netflix Prize and Singular Value Decomposition](https://pantelis.github.io/cs301/docs/common/lectures/recommenders/netflix/)
