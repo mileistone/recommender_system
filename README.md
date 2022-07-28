@@ -7,6 +7,7 @@
   - some paper of Yehuda Koren is very good.
 - [2013] [Ad Click Prediction: a View from the Trenches](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/41159.pdf)
 - [RecSys2019] [Are We Really Making Much Progress? A Worrying Analysis of Recent Neural Recommendation Approaches](https://arxiv.org/abs/1907.06902)
+- [2022] [Advances in Collaborative Filtering](https://datajobs.com/data-science-repo/Collaborative-Filtering-%5BKoren-and-Bell%5D.pdf)
 
 ### Course
 - [2015] [Mining Massive Data Sets](http://snap.stanford.edu/class/cs246-2015/handouts.html)
