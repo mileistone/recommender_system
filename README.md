@@ -11,3 +11,6 @@
 
 ### Course
 - [2015] [Mining Massive Data Sets](http://snap.stanford.edu/class/cs246-2015/handouts.html)
+
+### Book
+- [2020] [https://d2l.ai/chapter_recommender-systems/recsys-intro.html]
